@@ -1,0 +1,28 @@
+{
+  "speakers": [
+    {
+      "name": "Time Cook",
+      "company": "Apple",
+      "image": "/img1.png",
+      "topics": ["Business", "CEO", "Products"]
+    },
+    {
+      "name": "Susan Wojcicki",
+      "company": "Google",
+      "image": "/img2.png",
+      "topics": ["Business", "CEO", "UX"]
+    },
+    {
+      "name": "Jack Dorsey",
+      "company": "Twitter",
+      "image": "/img3.png",
+      "topics": ["Business", "CEO", "UX"]
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "company": "Meta",
+      "image": "/img4.png",
+      "topics": ["Business", "CEO", "UX"]
+    }
+  ]
+}
