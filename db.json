@@ -16,5 +16,23 @@
   "summary_event_points": 39,
   "summary_event_rank": 7894056,
   "current_event": 38
+  },
+  "2770100": {
+    "id": 2770100,
+  "joined_time": "2024-07-30T21:04:47.035810Z",
+  "started_event": 1,
+  "favourite_team": 14,
+  "player_first_name": "Tashie",
+  "player_last_name": "Malick",
+  "player_region_id": 198,
+  "player_region_name": "South Africa",
+  "player_region_iso_code_short": "ZA",
+  "player_region_iso_code_long": "ZAF",
+  "years_active": 13,
+  "summary_overall_points": 2383,
+  "summary_overall_rank": 696697,
+  "summary_event_points": 49,
+  "summary_event_rank": 4813002,
+  "current_event": 38
   }
 }
