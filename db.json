@@ -18,7 +18,7 @@
   "current_event": 38
   },
   "2770100": {
-    "id": 2770100,
+  "id": 2770100,
   "joined_time": "2024-07-30T21:04:47.035810Z",
   "started_event": 1,
   "favourite_team": 14,
@@ -33,6 +33,42 @@
   "summary_overall_rank": 696697,
   "summary_event_points": 49,
   "summary_event_rank": 4813002,
+  "current_event": 38
+  },
+  "8051725": {
+  "id": 8051725,
+  "joined_time": "2024-08-16T13:56:10.097027Z",
+  "started_event": 1,
+  "favourite_team": 14,
+  "player_first_name": "Wellington",
+  "player_last_name": "Muramba",
+  "player_region_id": 198,
+  "player_region_name": "South Africa",
+  "player_region_iso_code_short": "ZA",
+  "player_region_iso_code_long": "ZAF",
+  "years_active": 8,
+  "summary_overall_points": 2469,
+  "summary_overall_rank": 217363,
+  "summary_event_points": 70,
+  "summary_event_rank": 584422,
+  "current_event": 38
+  },
+  "1673904": {
+  "id": 1673904,
+  "joined_time": "2024-07-21T10:48:48.640378Z",
+  "started_event": 1,
+  "favourite_team": 14,
+  "player_first_name": "Andrew",
+  "player_last_name": "Hlupo",
+  "player_region_id": 198,
+  "player_region_name": "South Africa",
+  "player_region_iso_code_short": "ZA",
+  "player_region_iso_code_long": "ZAF",
+  "years_active": 9,
+  "summary_overall_points": 2331,
+  "summary_overall_rank": 1160843,
+  "summary_event_points": 40,
+  "summary_event_rank": 7575984,
   "current_event": 38
   }
 }
