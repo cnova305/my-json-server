@@ -16,4 +16,23 @@
   "summary_event_points": 39,
   "summary_event_rank": 7894056,
   "current_event": 38
+  },
+  "8051725": {
+  "id": 8051725,
+  "joined_time": "2024-08-16T13:56:10.097027Z",
+  "started_event": 1,
+  "favourite_team": 14,
+  "player_first_name": "Wellington",
+  "player_last_name": "Muramba",
+  "player_region_id": 198,
+  "player_region_name": "South Africa",
+  "player_region_iso_code_short": "ZA",
+  "player_region_iso_code_long": "ZAF",
+  "years_active": 8,
+  "summary_overall_points": 2469,
+  "summary_overall_rank": 217363,
+  "summary_event_points": 70,
+  "summary_event_rank": 584422,
+  "current_event": 38,
+  }
 }
