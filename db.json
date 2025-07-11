@@ -15,7 +15,8 @@
   "summary_overall_rank": 65404,
   "summary_event_points": 39,
   "summary_event_rank": 7894056,
-  "current_event": 38
+  "current_event": 38,
+  "name":"Novabrokeagain"
   },
   "2770100": {
   "id": 2770100,
@@ -33,7 +34,8 @@
   "summary_overall_rank": 696697,
   "summary_event_points": 49,
   "summary_event_rank": 4813002,
-  "current_event": 38
+  "current_event": 38,
+  "name":"Kache Utd"
   },
   "8051725": {
   "id": 8051725,
@@ -51,7 +53,8 @@
   "summary_overall_rank": 217363,
   "summary_event_points": 70,
   "summary_event_rank": 584422,
-  "current_event": 38
+  "current_event": 38,
+  "name": "Weezy F United"
   },
   "1673904": {
   "id": 1673904,
@@ -69,6 +72,7 @@
   "summary_overall_rank": 1160843,
   "summary_event_points": 40,
   "summary_event_rank": 7575984,
-  "current_event": 38
+  "current_event": 38,
+  "name":"Hlupo United"
   }
 }
