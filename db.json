@@ -75,4 +75,15 @@
   "current_event": 38,
   "name":"Hlupo United"
   }
+  "GBPUSD": {
+     "endpoint": "minute_historical",
+     "currency": "GBPUSD", 
+     "date_time": "2019-10-09-13:24", 
+     "close": 1.09802,  
+     "high": 1.09816, 
+     "low": 1.09798, 
+     "open": 1.09807, 
+     "request_time": "Thu, 31 Oct 2019 15:45:43 GMT"
+    }
+
 }
