@@ -1,13 +1,6 @@
 {
   "GBPUSD":  {
-  "id": "GBPUSD",
-  "endpoint": "minute_historical",
-  "currency": "EURUSD", 
-  "date_time": "2019-10-09-13:24", 
-  "close": 1.09802,  
-  "high": 1.09816, 
-  "low": 1.09798, 
-  "open": 1.09807, 
+  "id": "GBPUSDt",
   },
   "4698057": {
   "id": 4698057,
